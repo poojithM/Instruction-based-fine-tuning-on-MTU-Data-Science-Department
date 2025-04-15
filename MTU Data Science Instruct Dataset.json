@@ -1,0 +1,470 @@
+[
+  {
+    "instruct": "What is the full form of MTU?",
+    "answer": "Michigan Technological University"
+  },
+  {
+    "instruct": "Where is Michigan Technological University situated?",
+    "answer": "Houghton, Michigan"
+  },
+  {
+    "instruct": "How many degree programs does Michigan Technological University offer?",
+    "answer": "Over 125 degree programs across five colleges: College of Engineering, College of Computing, College of Sciences and Arts, College of Business, and College of Forest Resources and Environmental Science"
+  },
+  {
+    "instruct": "Who is the Associate Dean of Data Science at Michigan Technological University's Data Science department?",
+    "answer": "Laura E. Brown"
+  },
+  {
+    "instruct": "What are Laura Brown's areas of expertise?",
+    "answer": "Artificial Intelligence and Machine Learning, Data Mining and Data Science, Applications of AI and ML to Energy (microgrids, power systems), Health, and other domains"
+  },
+  {
+    "instruct": "What is Laura Brown's email address?",
+    "answer": "lebrown@mtu.edu"
+  },
+  {
+    "instruct": "Where is Laura Brown's office located?",
+    "answer": "Rekhi Hall 307"
+  },
+  {
+    "instruct": "Who is Laura Brown at Michigan Technological University?",
+    "answer": "Laura Brown is an Associate Professor of Computer Science and the Associate Dean of Data Science Initiatives in the College of Computing at Michigan Technological University."
+  },
+  {
+    "instruct": "What is Laura Brown’s educational background?",
+    "answer": "Laura Brown holds a B.S. in Engineering from Swarthmore College, an M.S.E. in Computer Science from the University of Michigan, and an M.S. and Ph.D. in Biomedical Informatics from Vanderbilt University."
+  },
+  {
+    "instruct": "What are Laura Brown’s research interests?",
+    "answer": "Her research interests lie in artificial intelligence, machine learning, and data science, covering both theoretical aspects and applications in fields like clinical medicine, biology, electrical power systems, microgrids, and computer systems."
+  },
+  {
+    "instruct": "What role does Laura Brown play in data science education at Michigan Tech?",
+    "answer": "She serves as the Director of the Data Science M.S. degree and graduate certificate program, and she is passionate about advancing teaching methods and access to computer science and data science education."
+  },
+  {
+    "instruct": "Which centers or institutes is Laura Brown affiliated with at Michigan Tech?",
+    "answer": "Laura Brown is a member of the Institute of Computing and Cybersystems (ICC), the Ecosystem Science Center (ESC), and the Center for Agile Interconnected Microgrids (AIM)."
+  },
+  {
+    "instruct": "How does Laura Brown contribute to interdisciplinary work at Michigan Tech?",
+    "answer": "Through her research and collaborations across campus, she applies AI, machine learning, and data science techniques to diverse domains and participates in multiple research centers, enhancing interdisciplinary efforts."
+  },
+  {
+    "instruct": "What is the main goal of the Michigan Tech Data Science MS program?",
+    "answer": "The program is designed as a terminal degree to prepare students for careers in industry and government by providing a broad-based education in data science."
+  },
+  {
+    "instruct": "What skills does the Michigan Tech Data Science MS program emphasize?",
+    "answer": "It emphasizes data mining, predictive analytics, cloud computing, data-science fundamentals, communication, and business acumen."
+  },
+  {
+    "instruct": "How does the Michigan Tech Data Science MS provide a competitive edge?",
+    "answer": "It offers domain-specific specialization in science and engineering disciplines, allowing students to tailor their education to their interests."
+  },
+  {
+    "instruct": "What freedom do students have in the Michigan Tech Data Science MS program?",
+    "answer": "Students have the freedom to explore and develop their own interests across one or more domains."
+  },
+  {
+    "instruct": "What do students like Navjot Kaur say about Computing[MTU]?",
+    "answer": "Navjot Kaur highlights the quality of the coursework and the helpful nature of the professors as the best parts of Computing[MTU]."
+  },
+  {
+    "instruct": "What basic knowledge is assumed for entry into the Data Science MS program?",
+    "answer": "Basic knowledge in statistical and mathematical techniques, computer programming, information systems, databases, and communications is assumed."
+  },
+  {
+    "instruct": "What types of undergraduate degrees are suitable for the Data Science MS program?",
+    "answer": "Degrees in business, math, computing, science, or engineering disciplines are suitable."
+  },
+  {
+    "instruct": "Do all applicants need prior experience in all prerequisite areas for the Data Science MS program?",
+    "answer": "No, but foundational courses are available to build necessary skills if needed."
+  },
+  {
+    "instruct": "Who is Navjot Kaur in relation to the Data Science MS program?",
+    "answer": "Navjot Kaur is a graduate student enrolled in the Data Science MS program at Michigan Tech."
+  },
+  {
+    "instruct": "What might happen if a student lacks some prerequisite knowledge for the Data Science MS program?",
+    "answer": "They may need to take foundational courses at the 3000–4000 level to build those skills."
+  },
+  {
+    "instruct": "What is the minimum credit requirement for the Data Science MS coursework option?",
+    "answer": "A minimum of 30 credits must be earned through coursework."
+  },
+  {
+    "instruct": "Can research credits be used in the coursework option for the Data Science MS?",
+    "answer": "Yes, a limited number of research credits may be used with approval from the advisor, department, and Graduate School."
+  },
+  {
+    "instruct": "What is the minimum number of credits required at the 5000–6000 level for the Data Science MS?",
+    "answer": "A minimum of 18 credits must be at the 5000–6000 series level."
+  },
+  {
+    "instruct": "What is the maximum number of credits allowed at the 3000–4000 level for the Data Science MS?",
+    "answer": "A maximum of 12 credits can be at the 3000–4000 level."
+  },
+  {
+    "instruct": "Is an examination required before conferring the Data Science MS degree?",
+    "answer": "A graduate program may require an oral or written examination, but it’s not mandatory for all."
+  },
+  {
+    "instruct": "What type of degree is the Michigan Tech Data Science MS?",
+    "answer": "It is a terminal Master of Science degree aimed at preparing students for industry and government careers."
+  },
+  {
+    "instruct": "Where can students find detailed coursework requirements for the Data Science MS?",
+    "answer": "Students can view the Data Science Graduate Handbooks for current and past requirements."
+  },
+  {
+    "instruct": "Are the course lists for the Data Science MS static?",
+    "answer": "No, the course lists are evaluated and adjusted annually."
+  },
+  {
+    "instruct": "What are some sample class schedules mentioned for the Data Science MS program?",
+    "answer": "Sample schedules include Computer Science/Computer Engineering, Management Information Systems, and Forestry."
+  },
+  {
+    "instruct": "How many course categories do Data Science MS students take classes from?",
+    "answer": "Students complete courses from four categories: Core, Elective, Foundational, and Domain Specific/Elective."
+  },
+  {
+    "instruct": "How many credits are required from Core Courses for the Data Science MS?",
+    "answer": "12 credits are required from Core Courses."
+  },
+  {
+    "instruct": "What is UN 5550 - Introduction to Data Science about?",
+    "answer": "It introduces fundamental data science concepts and skills, likely covering data wrangling, analysis, and visualization."
+  },
+  {
+    "instruct": "What does BA 5200 - Information Systems Management and Data Analytics focus on?",
+    "answer": "It focuses on managing information systems and applying data analytics in a business context."
+  },
+  {
+    "instruct": "What is covered in CS 5831 - Advanced Data Mining?",
+    "answer": "It covers advanced techniques and methodologies for extracting knowledge from large datasets."
+  },
+  {
+    "instruct": "What is the focus of MA 5790 - Predictive Modeling?",
+    "answer": "It focuses on statistical models and techniques for prediction and classification."
+  },
+  {
+    "instruct": "What is the maximum credit limit for Foundational Courses in the Data Science MS?",
+    "answer": "A maximum of 6 credits can be applied from Foundational Courses."
+  },
+  {
+    "instruct": "Who might need to take Foundational Courses in the Data Science MS program?",
+    "answer": "Students lacking foundational skills in programming, statistics, or databases may need these courses."
+  },
+  {
+    "instruct": "What does CS 3425 - Introduction to Database Systems teach?",
+    "answer": "It teaches the basics of designing and managing database systems."
+  },
+  {
+    "instruct": "What is MA 3710 - Engineering Statistics about?",
+    "answer": "It covers statistical methods and techniques relevant to engineering applications."
+  },
+  {
+    "instruct": "What skills does SAT 4650 - Introduction to Applied Computing in Python Programming build?",
+    "answer": "It builds programming skills in Python for applied computing tasks."
+  },
+  {
+    "instruct": "How many credits are required from Elective Courses for the Data Science MS?",
+    "answer": "A minimum of 6 credits must come from approved Elective Courses."
+  },
+  {
+    "instruct": "What is CS 5841 - Machine Learning about?",
+    "answer": "It explores machine learning algorithms and their applications."
+  },
+  {
+    "instruct": "What does MA 5770 - Bayesian Statistics cover?",
+    "answer": "It covers Bayesian inference methods for statistical analysis."
+  },
+  {
+    "instruct": "What is the focus of SAT 5114 - Artificial Intelligence in Healthcare?",
+    "answer": "It focuses on applying AI techniques to healthcare problems."
+  },
+  {
+    "instruct": "How many Elective Courses must students take for the Data Science MS?",
+    "answer": "Students must take at least two courses from the approved elective list."
+  },
+  {
+    "instruct": "What is the maximum credit limit for Domain Specific Courses in the Data Science MS?",
+    "answer": "A maximum of 12 credits can come from Domain Specific Courses."
+  },
+  {
+    "instruct": "How do students choose Domain Specific Courses for the Data Science MS?",
+    "answer": "They consult with their advisor based on background, interests, and career aspirations."
+  },
+  {
+    "instruct": "What is an example of an Applied Computing domain course for the Data Science MS?",
+    "answer": "SAT 5165 - Introduction to Big Data Analytics is an example, focusing on big data techniques."
+  },
+  {
+    "instruct": "What does BA 5650 - Project Management in the Business domain cover?",
+    "answer": "It covers principles and practices of managing projects in a business context."
+  },
+  {
+    "instruct": "What is FW 5550 - Geographic Information Science and Spatial Analysis about?",
+    "answer": "It teaches GIS techniques and spatial data analysis for environmental applications."
+  },
+  {
+    "instruct": "What is the purpose of Domain Specific Courses in the Data Science MS program?",
+    "answer": "They allow students to specialize in one or more domains, enhancing practical knowledge for employment."
+  },
+  {
+    "instruct": "What does CS 4811 - Artificial Intelligence cover?",
+    "answer": "It introduces fundamental concepts and techniques in artificial intelligence."
+  },
+  {
+    "instruct": "What is MA 4710 - Regression Analysis about?",
+    "answer": "It focuses on regression models for data analysis and prediction."
+  },
+  {
+    "instruct": "What does EE 5500 - Probability and Stochastic Processes teach?",
+    "answer": "It covers probability theory and stochastic processes for engineering applications."
+  },
+  {
+    "instruct": "What is PSY 5210 - Advanced Statistical Analysis and Design I about?",
+    "answer": "It explores advanced statistical methods and experimental design."
+  },
+  {
+    "instruct": "Can students mix courses from multiple domains in the Data Science MS program?",
+    "answer": "Yes, students can choose Domain Specific Courses from one or more domains."
+  },
+  {
+    "instruct": "How does the Data Science MS program accommodate students with strong backgrounds?",
+    "answer": "Students with strong backgrounds may skip Foundational Courses and use Domain Electives instead."
+  },
+  {
+    "instruct": "What role does an advisor play in course selection for the Data Science MS?",
+    "answer": "The advisor helps determine the mix of Elective and Domain Specific Courses based on the student’s goals."
+  },
+  {
+    "instruct": "Are all 30 credits required to be at the graduate level for the Data Science MS?",
+    "answer": "No, up to 12 credits can be at the 3000–4000 level, with a minimum of 18 at the 5000–6000 level."
+  },
+  {
+    "instruct": "How does the Data Science MS program prepare students for careers?",
+    "answer": "It combines technical skills, domain knowledge, and practical coursework to prepare students for industry and government roles."
+  },
+  {
+    "instruct": "What does the Graduate Certificate in Data Science Foundations recognize?",
+    "answer": "It recognizes competency in data science techniques, including predictive modeling, data mining, information management, and data analytics."
+  },
+  {
+    "instruct": "How can students acquire the required foundational skills for the Data Science Foundations Certificate?",
+    "answer": "These skills can be obtained through formal academic qualifications, work experience, or a combination of both."
+  },
+  {
+    "instruct": "How many elective courses must students take for the Data Science Foundations Certificate?",
+    "answer": "Students must select two elective courses from a list of three options."
+  },
+  {
+    "instruct": "Who might benefit from the Data Science Foundations Certificate?",
+    "answer": "It benefits current students or professionals seeking to gain recognized competency in foundational data science skills."
+  },
+  {
+    "instruct": "What is the purpose of the Accelerated Master's in Data Science program at Michigan Tech?",
+    "answer": "It allows strong, motivated undergraduates to earn both a bachelor’s degree and a Master’s in Data Science in five years, preparing them for analytically-based careers and advancement."
+  },
+  {
+    "instruct": "Who is eligible to apply for the Accelerated Master’s in Data Science program?",
+    "answer": "Michigan Tech undergraduate students with a cumulative GPA of 3.0 or higher are eligible to apply."
+  },
+  {
+    "instruct": "How many credits can undergraduates double-count toward both their bachelor’s and master’s degrees in the Accelerated Master’s program?",
+    "answer": "Up to 6 approved credits can be counted toward both the bachelor’s and master’s degrees in the accelerated program."
+  },
+  {
+    "instruct": "What is the total credit requirement for the Accelerated Master’s in Data Science degree?",
+    "answer": "The degree requires 30 credits of approved coursework."
+  },
+  {
+    "instruct": "When should students apply for the Accelerated Master’s program at Michigan Tech?",
+    "answer": "Students should apply during the latter part of their junior year or early in their senior year through the standard Graduate School application process."
+  },
+  {
+    "instruct": "What additional credits can students take under the Senior Rule in the Accelerated Master’s program?",
+    "answer": "Under the Senior Rule, students can take up to 10 credit hours toward the master’s degree while still an undergraduate, independent of double-counted credits."
+  },
+  {
+    "instruct": "What GPA must students maintain to stay in the Accelerated Master’s program?",
+    "answer": "Students must maintain a cumulative GPA of 3.0 or above on a 4.0 scale."
+  },
+  {
+    "instruct": "What does Nathaneal Judge say about the benefits of the Accelerated Master’s program?",
+    "answer": "Nathaneal Judge says it increases the depth of his skills and improves his job market versatility in just one additional year, blending his passions for science, mathematics, and statistics."
+  },
+  {
+    "instruct": "Who should students consult during their junior year about the Accelerated Master’s program?",
+    "answer": "Students should talk with the Director of Data Science during their junior year to discuss the program."
+  },
+  {
+    "instruct": "What happens after a student is accepted into the Accelerated Master’s program?",
+    "answer": "They meet with the data science graduate program director to document double-counted and Senior Rule courses and are assigned an academic advisor to plan their coursework."
+  },
+  {
+    "instruct": "How does data science blend different disciplines?",
+    "answer": "Data science combines principles and practices from mathematics, statistics, business, artificial intelligence, and computer engineering to analyze large amounts of data."
+  },
+  {
+    "instruct": "What is the first step in the data science process cycle?",
+    "answer": "The first step is Data Capture, where data is gathered from diverse sources like databases, online platforms, or manual entry."
+  },
+  {
+    "instruct": "Why is the Communication stage important in the data science process?",
+    "answer": "The Communication stage is crucial because it involves presenting insights through reports, dashboards, and visualizations to stakeholders, ensuring they can understand and act on the findings."
+  },
+  {
+    "instruct": "What drove the emergence of data science as a field?",
+    "answer": "Data science emerged due to the growing abundance of data from business, industry, technology, engineering, and science, fueled by richer content and high-speed communication networks."
+  },
+  {
+    "instruct": "According to Rivery, how much data is projected to be created globally by 2025?",
+    "answer": "Rivery projects that approximately 181 zettabytes of data will be created, captured, copied, and consumed globally by 2025."
+  },
+  {
+    "instruct": "How do data scientists differ from data analysts in their approach?",
+    "answer": "Data scientists are more forward-looking and prediction-oriented, using analytical, statistical, and programming skills to build machine learning models, while data analysts focus on organizing and analyzing data to answer specific questions."
+  },
+  {
+    "instruct": "What is the role of an Environmental Data Scientist?",
+    "answer": "Environmental Data Scientists explore relationships in the natural environment, identify drivers of ecosystem processes, and use data tools to address environmental challenges like land, water, air, and biodiversity issues."
+  },
+  {
+    "instruct": "What does a Machine Learning Engineer do in the data science field?",
+    "answer": "A Machine Learning Engineer applies machine learning algorithms like clustering and classification, leveraging strong statistics, programming, and software engineering skills to build predictive models."
+  },
+  {
+    "instruct": "What is the mean annual wage for data scientists according to the BLS in May 2024?",
+    "answer": "The mean annual wage for data scientists, as reported by the U.S. Bureau of Labor Statistics in May 2024, is $124,590."
+  },
+  {
+    "instruct": "Which industry employs the highest percentage of data scientists according to 2023 BLS data?",
+    "answer": "Computer systems design and related services employ the highest percentage of data scientists, accounting for 11% of jobs in 2023."
+  },
+  {
+    "instruct": "What unique feature does the Data Science BS program at Michigan Tech offer?",
+    "answer": "The Data Science BS program offers a technical focus area in fields like software engineering, cybersecurity, statistics, or business technology, giving students a competitive edge."
+  },
+  {
+    "instruct": "What are the concentration options in the Environmental Data Science BS program at Michigan Tech?",
+    "answer": "The concentration options are global change science, environmental statistics, geospatial information science, and genetic applications in data science."
+  },
+  {
+    "instruct": "How does the Accelerated Master’s in Data Science program at Michigan Tech benefit students?",
+    "answer": "It allows students to earn both a bachelor’s and master’s degree in five years by counting up to 6 senior-level credits toward both degrees."
+  },
+  {
+    "instruct": "What is the focus of the College of Computing at Michigan Tech?",
+    "answer": "Founded in 2019, the College of Computing focuses solely on computing, preparing students to meet the demand for computing talent across industries transformed by digital technologies."
+  },
+  {
+    "instruct": "How does Michigan Tech support data science students in finding jobs?",
+    "answer": "Michigan Tech hosts two annual Career Fairs with hundreds of employers, offering up to 7,000 student interviews, preceded by CareerFEST for networking and career development."
+  },
+  {
+    "instruct": "What is the nickname for the Administration and Student Services Building at Michigan Tech?",
+    "answer": "The Administration and Student Services Building is nicknamed 'Admin.'"
+  },
+  {
+    "instruct": "Which offices are located on the Garden Level of the Administration and Student Services Building?",
+    "answer": "The Garden Level houses University Marketing and Communications and Mail Services."
+  },
+  {
+    "instruct": "Where can students find the Career Services office in the Administration and Student Services Building?",
+    "answer": "Career Services is located on the Second Floor of the Administration and Student Services Building."
+  },
+  {
+    "instruct": "What administrative functions are managed on the Fifth Floor of the Administration and Student Services Building?",
+    "answer": "The Fifth Floor is home to the university's Administration offices."
+  },
+  {
+    "instruct": "What is the address of the Administration and Student Services Building at Michigan Tech?",
+    "answer": "The address is 1400 Townsend Drive, Houghton, MI 49931."
+  },
+  {
+    "instruct": "How does Michigan Tech review graduate school applications?",
+    "answer": "Applications are reviewed on an individual basis using a holistic approach."
+  },
+  {
+    "instruct": "What type of bachelor's degree is required for admission to the Michigan Tech Graduate School?",
+    "answer": "Any bachelor's degree that includes some coursework in introductory programming and statistics is required."
+  },
+  {
+    "instruct": "How many letters of recommendation are needed for a graduate application to Michigan Tech?",
+    "answer": "Two letters of recommendation are required."
+  },
+  {
+    "instruct": "What is the typical undergraduate GPA for admitted applicants to Michigan Tech’s Graduate School?",
+    "answer": "Admitted applicants typically have an undergraduate GPA of 3.0 or better on a 4.0 scale."
+  },
+  {
+    "instruct": "Is the GRE required for admission to Michigan Tech’s Graduate School?",
+    "answer": "No, the GRE is not required."
+  },
+  {
+    "instruct": "What is the recommended TOEFL score for international students applying to Michigan Tech?",
+    "answer": "The recommended TOEFL score is at least 100 iBT, though the minimum required score is 79 overall."
+  },
+  {
+    "instruct": "What IELTS score does Michigan Tech recommend for international applicants?",
+    "answer": "Michigan Tech recommends an overall band score of at least 7.0 on the IELTS, with a minimum required score of 6.5 overall."
+  },
+  {
+    "instruct": "When are admissions decisions made for the Michigan Tech Graduate School?",
+    "answer": "Admissions decisions are made on a rolling basis."
+  },
+  {
+    "instruct": "What is the recommended application deadline for the Fall Semester at Michigan Tech?",
+    "answer": "The recommended deadline to apply for the Fall Semester is January 15."
+  },
+  {
+    "instruct": "Can additional documents be submitted with a graduate application to Michigan Tech?",
+    "answer": "No, additional documents beyond the required materials (student statements, transcripts, letters of recommendation, résumé/CV) are not accepted."
+  },
+  {
+    "instruct": "How many core credits are required for the Data Science BS at Michigan Tech?",
+    "answer": "The Data Science BS requires 55-57 core credits."
+  },
+  {
+    "instruct": "What are the programming course options for the Data Science BS core requirements?",
+    "answer": "Students can take CS 1121 and CS 1122 (Introduction to Programming I and II) or CS 1131 (Accelerated Introduction to Programming)."
+  },
+  {
+    "instruct": "Which course can be substituted for CS 2311 - Discrete Structures in the Data Science BS?",
+    "answer": "MA 3210 - Introduction to Combinatorics can be substituted for CS 2311 - Discrete Structures."
+  },
+  {
+    "instruct": "How many credits of Data Science Electives are required for the Data Science BS?",
+    "answer": "12 credits of Data Science Electives are required."
+  },
+  {
+    "instruct": "What is the maximum number of Data Science Elective credits that can be at the 2000-3000 level?",
+    "answer": "Up to 6 credits of Data Science Electives can be at the 2000-3000 level."
+  },
+  {
+    "instruct": "Which course must be selected from the Machine Learning/AI-related topics list for Data Science Electives?",
+    "answer": "One course must be selected from CS 4811, CS 4821 or CS 5831, CS 5811, CS 5821, CS 5841, or EET 4501."
+  },
+  {
+    "instruct": "What are the minimum Lab Science Requirements for the Data Science BS?",
+    "answer": "Students must complete a minimum of 7 credits, including two science courses in different disciplines (e.g., BL, CH, KIP, FW, GE, PH, SS), with at least one including a lab."
+  },
+  {
+    "instruct": "What options exist for the Ethics requirement in the Data Science BS core?",
+    "answer": "Students can choose CS 3000 (Ethical and Social Aspects of Computing), SAT 1700 (Cyber Ethics), or DATA 3000."
+  },
+  {
+    "instruct": "How many Free Elective credits are required for the Data Science BS?",
+    "answer": "5 to 7 credits of Free Electives are required, depending on the total core credits taken."
+  },
+  {
+    "instruct": "Where can students find more details about class descriptions and prerequisites for the Data Science BS?",
+    "answer": "Students can find class descriptions and prerequisites in the course catalog and should consult the academic advisor for more information."
+  }
+]

@@ -1,0 +1,15 @@
+scrape_task:
+  description: >
+    Scrape the entire content from the provided website URL.
+    Ensure that all visible and meaningful text is collected, excluding ads, scripts, and irrelevant metadata.
+  expected_output: >
+    A comprehensive block of raw text containing the main readable content of the website.
+  agent: scraper
+
+reporting_task:
+  description: >
+    Analyze and understand the scraped content provided by the scraper agent.
+    Based on the information, generate clear and meaningful question and answer pairs that accurately reflect the core insights of the content.
+  expected_output: >
+    A structured JSON object containing multiple question and answer pairs derived from the scraped website data.
+  agent: reporting_analyst
