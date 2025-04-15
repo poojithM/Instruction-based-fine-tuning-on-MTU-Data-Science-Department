@@ -35,22 +35,7 @@
     "instruct": "What is Laura Brown’s educational background?",
     "answer": "Laura Brown holds a B.S. in Engineering from Swarthmore College, an M.S.E. in Computer Science from the University of Michigan, and an M.S. and Ph.D. in Biomedical Informatics from Vanderbilt University."
   },
-  {
-    "instruct": "What are Laura Brown’s research interests?",
-    "answer": "Her research interests lie in artificial intelligence, machine learning, and data science, covering both theoretical aspects and applications in fields like clinical medicine, biology, electrical power systems, microgrids, and computer systems."
-  },
-  {
-    "instruct": "What role does Laura Brown play in data science education at Michigan Tech?",
-    "answer": "She serves as the Director of the Data Science M.S. degree and graduate certificate program, and she is passionate about advancing teaching methods and access to computer science and data science education."
-  },
-  {
-    "instruct": "Which centers or institutes is Laura Brown affiliated with at Michigan Tech?",
-    "answer": "Laura Brown is a member of the Institute of Computing and Cybersystems (ICC), the Ecosystem Science Center (ESC), and the Center for Agile Interconnected Microgrids (AIM)."
-  },
-  {
-    "instruct": "How does Laura Brown contribute to interdisciplinary work at Michigan Tech?",
-    "answer": "Through her research and collaborations across campus, she applies AI, machine learning, and data science techniques to diverse domains and participates in multiple research centers, enhancing interdisciplinary efforts."
-  },
+ 
   {
     "instruct": "What is the main goal of the Michigan Tech Data Science MS program?",
     "answer": "The program is designed as a terminal degree to prepare students for careers in industry and government by providing a broad-based education in data science."
@@ -154,6 +139,22 @@
   {
     "instruct": "What is the maximum credit limit for Foundational Courses in the Data Science MS?",
     "answer": "A maximum of 6 credits can be applied from Foundational Courses."
+  },
+   {
+    "instruct": "What are Laura Brown’s research interests?",
+    "answer": "Her research interests lie in artificial intelligence, machine learning, and data science, covering both theoretical aspects and applications in fields like clinical medicine, biology, electrical power systems, microgrids, and computer systems."
+  },
+  {
+    "instruct": "What role does Laura Brown play in data science education at Michigan Tech?",
+    "answer": "She serves as the Director of the Data Science M.S. degree and graduate certificate program, and she is passionate about advancing teaching methods and access to computer science and data science education."
+  },
+  {
+    "instruct": "Which centers or institutes is Laura Brown affiliated with at Michigan Tech?",
+    "answer": "Laura Brown is a member of the Institute of Computing and Cybersystems (ICC), the Ecosystem Science Center (ESC), and the Center for Agile Interconnected Microgrids (AIM)."
+  },
+  {
+    "instruct": "How does Laura Brown contribute to interdisciplinary work at Michigan Tech?",
+    "answer": "Through her research and collaborations across campus, she applies AI, machine learning, and data science techniques to diverse domains and participates in multiple research centers, enhancing interdisciplinary efforts."
   },
   {
     "instruct": "Who might need to take Foundational Courses in the Data Science MS program?",
