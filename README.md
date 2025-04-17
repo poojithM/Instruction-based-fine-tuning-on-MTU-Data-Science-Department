@@ -1,10 +1,10 @@
-# 🧠 Instruction-Based Fine-Tuning of Phi-3 on MTU Data Science Department
+# Instruction-Based Fine-Tuning of Phi-3 on MTU Data Science Department
 
 This project focuses on instruction-based fine-tuning of the **Phi-3 Mini model** using structured content from the **Michigan Technological University (MTU) Data Science Department**. It uses a **multi-agent CrewAI framework** to scrape the official website, generate a dataset of question-and-answer pairs, and fine-tune the model using **QLoRA via Unsloth**.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 - **Scraping**: A CrewAI `Scraper Agent` collects all readable content from the MTU Data Science Department website.
 - **Q&A Generation**: A `Reporting Agent` analyzes the scraped text and generates question-and-answer pairs formatted in JSON.
@@ -15,7 +15,7 @@ This project focuses on instruction-based fine-tuning of the **Phi-3 Mini model*
 
 ---
 
-## 🧰 Technologies & Tools
+## Technologies & Tools
 
 - **Model**: Phi-3 Mini (Hugging Face, via Unsloth)
 - **Training Framework**: [Unsloth](https://github.com/unslothai/unsloth)
@@ -26,7 +26,7 @@ This project focuses on instruction-based fine-tuning of the **Phi-3 Mini model*
 
 ---
 
-## 📊 Dataset Example
+## Dataset Example
 
 ```json
 {
@@ -48,7 +48,7 @@ It covers Bayesian inference methods for statistical analysis.
 
 ```
 
-## 🏋️‍♂️ Training Configuration
+## Training Configuration
 ```
 Sequence Length: 512
 Train/Validation Split: 90/10
@@ -60,8 +60,8 @@ Optimizer: paged_adamw_8bit
 
 ```
 
-## 🎓 How It Helps MTU Data Science Students
+## How It Helps MTU Data Science Students
 
-- **📘 Personalized Assistant**: Acts as a chatbot trained on MTU Data Science curriculum and departmental FAQs, answering course-related queries instantly.
-- **🎯 Academic Clarity**: Helps students understand course offerings, prerequisites, faculty areas of expertise, and program outcomes without manually searching the website.
-- **🧠 AI Exposure**: Gives students real-world exposure to instruction tuning, multi-agent AI systems, and LLM fine-tuning, aligning with their academic interests.
+- **Personalized Assistant**: Acts as a chatbot trained on MTU Data Science curriculum and departmental FAQs, answering course-related queries instantly.
+- **Academic Clarity**: Helps students understand course offerings, prerequisites, faculty areas of expertise, and program outcomes without manually searching the website.
+- **AI Exposure**: Gives students real-world exposure to instruction tuning, multi-agent AI systems, and LLM fine-tuning, aligning with their academic interests.
